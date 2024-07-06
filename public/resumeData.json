@@ -1,0 +1,75 @@
+{
+    "main": {
+      "name": "Omkar Khatale",
+      "bio": "I'm a senior at IIIT-K pursuing my BTech in Computer Science Engineering with a passion for programming. Currently a Full-Stack web developer. Eager to meet new people and acquire new skills.",
+      "contactmessage": "Get in touch with me.",
+      "email": "omkarkhatale1002@gmail.com",
+      "phone": "+91 9370521002",
+      "address": {
+        "street": "Indira Nagar Road, Ghoti",
+        "city": "Nashik",
+        "state": "Maharashtra",
+        "zip": "422402"
+      },
+      "social": [
+        {
+          "name": "facebook",
+          "url": ""
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/omkar-khatale-25695a258/"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/khatale_omkar_/"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/Omkar1622"
+        }
+      ],
+      "experience": [
+        {
+          "name" : "The Expert Community",
+          "position" : "React Developer Intern",
+          "Desc" : "Contributed to enhancing the frontend of their PMS using React.js and Tailwind CSS, while also developing the frontend of an LTI tool utilizing Bootstrap and JavaScript, ensuring intuitive user interfaces and seamless user experience."
+        }
+      ]
+    },
+    "portfolio": {
+      "projects": [
+        {
+          "title":"RENTAL CAR INSPECTIONS WITH AUTOMATED OBJECT DETECTION",
+          "dis": "Developed a solution to modernize and optimize vehicle inspection in the car rental industry using YOLACT architecture..Leveraged deep learning and computer vision for automated, accurate damage detection, enhancing customer experience and reducing operational costs",
+          "git_url": "https://github.com/Omkar1622/BTP_Group_45",
+          "Build": "Deep Learning, ReactJs, FastAPI, Cloudinary",
+          "bg":"btp.jpg",
+          "id": 1
+        },
+        {
+          "title": "Chat-App",
+          "dis": "Implemented a user-friendly ReactJS chat application with Firebase integration.. Enabled user account creation with unique email IDs, profile picture setup, and real-time friend search. Leveraged Firebase for Authentication and Cloud Firestore for real-time data storage, gaining experience in real-time database and chat functionality.",
+          "url": "https://chat-app-omkar1622.vercel.app/",
+          "git_url": "https://github.com/Omkar1622/Chat-App",
+          "bg":"chat_app.png",
+          "Build": "ReactJs, Firebase",
+          "id": 2
+        },
+        {
+          "title": "Image Generator",
+          "dis": "A text-to-image generator website that receives input in the form of words and then processes it to generate an image using OpenAI API. we can generate an Image and show it to other users by posting it in the community. we can search for the images posted by other users and download them as well.",
+          "url": "https://dall-e-yxjj.vercel.app/",
+          "git_url":"https://github.com/Omkar1622/dall-e",
+          "Build": "Reactjs, Nodejs, mongoDB, OpenAI API"
+        },
+        {
+          "title": "Crypto-Tracker",
+          "dis": " A user-friendly ReactJS website to monitor real-time data for multiple cryptocurrencies. It displays key information like market cap, supply, and 24-hour high/low. The interface allows users to track the coins, providing them with up-to-date information on crypto in real-time.",
+          "url": "https://crypto-tracker-omega-ten.vercel.app/",
+          "git_url":"https://github.com/Omkar1622/Crypto-Tracker",
+          "Build": "ReactJs, API"
+        }
+      ]
+    }
+  }
